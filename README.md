@@ -1,5 +1,7 @@
 # Amazon Sales in India Dashboard
 ![Amazon Sales Dashboard Screenshot](https://github.com/sagbhandari98/Amazon-Sale-Tablue-Project/blob/main/Amazon%20Sale%20dashboard.png)
+This is the link to view the dashboard screenshot above:
+https://public.tableau.com/app/profile/sagrika.bhandari/viz/AmazonSaleDashboard_17105278590480/Dashboard1?publish=yes
 
 
 ## Project Overview
